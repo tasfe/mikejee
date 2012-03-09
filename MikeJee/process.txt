@@ -1,0 +1,9 @@
+遇到问题：
+1、Spring DataSource配置问题,请求几次后卡住不动。
+2、Json问题（格式等）
+3、tree父子递归问题
+4、tree的checkbox级联选中问题
+5、卡片、tree生成
+6、jquery easy ui ==> options代表所有属性
+7、jquery easy ui ==> 调用方法  $("#id").tree("method1")
+8、卡片与tree权限菜单问题

@@ -1,0 +1,23 @@
+#Wed Feb 29 10:21:07 CST 2012
+eclipse.preferences.version=1
+encoding//WebRoot/js/common.js=UTF-8
+encoding//WebRoot/js/easyui-lang-zh_CN.js=UTF-8
+encoding//WebRoot/js/frame/example/examples.js=UTF-8
+encoding//WebRoot/js/frame/index.js=UTF-8
+encoding//WebRoot/js/frame/login.js=UTF-8
+encoding//WebRoot/js/frame/security/addDept.js=UTF-8
+encoding//WebRoot/js/frame/security/addMenu.js=UTF-8
+encoding//WebRoot/js/frame/security/addRole.js=UTF-8
+encoding//WebRoot/js/frame/security/addUser.js=UTF-8
+encoding//WebRoot/js/frame/security/manageDept.js=UTF-8
+encoding//WebRoot/js/frame/security/manageMenu.js=UTF-8
+encoding//WebRoot/js/frame/security/manageRole.js=UTF-8
+encoding//WebRoot/js/frame/security/manageUser.js=UTF-8
+encoding//WebRoot/js/frame/security/roleAuthorize.js=UTF-8
+encoding//WebRoot/js/frame/security/updateDept.js=UTF-8
+encoding//WebRoot/js/frame/security/updateMenu.js=UTF-8
+encoding//WebRoot/js/frame/security/updateRole.js=UTF-8
+encoding//WebRoot/js/frame/security/updateUser.js=UTF-8
+encoding//WebRoot/js/frame/security/userAuthorize.js=UTF-8
+encoding/<project>=UTF-8
+encoding/process.txt=UTF-8
